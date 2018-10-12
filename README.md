@@ -1,5 +1,7 @@
 # README
 
+[ ![Codeship Status for lastab/toy_app](https://app.codeship.com/projects/83eb8780-b064-0136-09da-7a3da3243947/status?branch=master)](https://app.codeship.com/projects/310451)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
