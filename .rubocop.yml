@@ -1,5 +1,17 @@
-inherit_from: .rubocop_todo.yml
 
 Lint/AssignmentInCondition:
   Enabled: false
 
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+  
+Style/MixinUsage:
+  Exclude:
+    - 'bin/setup'
+    - 'bin/update'
+
+Metrics/LineLength:
+  Max: 130
